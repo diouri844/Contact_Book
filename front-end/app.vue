@@ -55,6 +55,7 @@ export default {
   --radius : 20px;
   --default-outline : none;
   --margin-center:50px 90px; 
+  --margin-responsive-1: 30px 50px;
 }
 *{
   background-color: var(--color-p1);

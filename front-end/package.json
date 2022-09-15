@@ -12,6 +12,10 @@
     "nuxt": "3.0.0-rc.9"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^1.35.6"
+    "@nuxtjs/toast": "^3.3.1",
+    "@supabase/supabase-js": "^1.35.6",
+    "@symbol-it/nuxtjs-notification-module": "^0.0.6",
+    "mosha-vue-toastify": "^1.0.23",
+    "nuxt-sweetalert2": "^1.0.0"
   }
 }

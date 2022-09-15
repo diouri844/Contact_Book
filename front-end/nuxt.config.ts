@@ -6,7 +6,9 @@ import { defineNuxtConfig } from 'nuxt'
 });*/
 
 export default {
-  modules: ['@nuxtjs/supabase'],
+  modules: [
+    '@nuxtjs/supabase'
+  ],
   components: {
      global: true,
      dirs: ['~/components'],
