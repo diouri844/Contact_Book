@@ -12,6 +12,11 @@
     "nuxt": "3.0.0-rc.9"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@nuxtjs/toast": "^3.3.1",
     "@supabase/supabase-js": "^1.35.6",
     "@symbol-it/nuxtjs-notification-module": "^0.0.6",
